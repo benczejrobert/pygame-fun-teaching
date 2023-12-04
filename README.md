@@ -4,7 +4,7 @@ This project contains the game created for the Clockwork FTC team by Robert-Vale
 
 This game was part of a course taught by Robert to 11<sup>th</sup> grader pupils to show them how they can use the coding skills they learned in highschool in a fun way. 
 
-Reesources to install Pygame: 
+<ins> **Resources to install prerequisites:** </ins>
 
 https://www.pygame.org/wiki/GettingStarted
 
